@@ -4,7 +4,7 @@
   - Dionaea
   
 ## Issues:
-N/A 
+Installing MNH was an issue since I was missing some of the snesors. I had to delete my VM instances few times and had to install MNH multipletimes. I had to delete the MNH git and reclone it and install it again. That fixed the missing sensors issue. 
 
 ## Summary: 
   - dionaea(2690)
@@ -14,11 +14,7 @@ N/A
 ## Unresolved Questions:
  N/A
 ## Resources
-- All recordings were done on [Ubuntu 14.04.4 LTS (Trusty)](http://releases.ubuntu.com/14.04/) with QuickTime
-## Notes
-
-Installing MNH was an issue since I was missing some of the snesors. I had to delete my VM instances few times and had to install MNH multipletimes. I had to delete the MNH git and reclone it and install it again. That fixed the missing sensors issue. 
-
+- All recordings were done on MacOs Mojave. 
 ## License
 
     Copyright [2019] [Owen Ahmed]
